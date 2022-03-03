@@ -86,35 +86,33 @@ This will take some time, however once you're finished you should get either Bas
 
 <img width="824" alt="com-recovery 805dc41f" src="https://user-images.githubusercontent.com/72415505/156631343-529ca3ee-9e79-4e21-bab1-7305b4ed3df9.png">
 
-6. Create a new folder on the root of your USB Drive called EFI.
+6. Open up and extract the EFI folder archive you downloaded earlier.
 
-7. Open up and extract the EFI folder archive you downloaded earlier.
+7. Copy the folder that's named, "EFI," to the root of your USB Drive.
 
-8. Grab the BOOT and OC folders and copy them into the EFI folder you've just created.
+8. Restart your computer.
 
-9. Restart your computer.
+9. Open BIOS and disable all the security options.
 
-10. Open BIOS and disable all the security options.
+10. Boot via your Flash Drive.
 
-11. Boot via your Flash Drive.
+11. Boot Hackintosh installer.
 
-12. Boot Hackintosh installer.
+12. Now open Disk Utility and format your internal or external Hard Drive or SSD as APFS.
 
-13. Now open Disk Utility and format your internal or external Hard Drive or SSD as APFS.
+13. Install macOS.
 
-14. Install macOS.
+14. Your system might boot during the install.
 
-15. Your system might boot during the install.
+15. Now after install again boot into your usb drive but now boot into the drive in which you installed your Hackintosh.
 
-16. Now after install again boot into your usb drive but now boot into the drive in which you installed your Hackintosh.
+16. Open Clover Configurator and Mount the EFI partition of the drive you want to boot off of.
 
-17. Open Clover Configurator and Mount the EFI partition of the drive you want to boot off of.
+17. Now copy my EFI Folder and overrite it with the one system created.
 
-18. Now copy my EFI Folder and overrite it with the one system created.
+18. Now try booting macOS without the USB drive.
 
-19. Now try booting macOS without the USB drive.
-
-20. Congratulations, you've successfully hackintoshed your Dell Latitude E7440.
+19. Congratulations, you've successfully hackintoshed your Dell Latitude E7440.
 
 # Steps to install Hackintosh 
 1. You need to ensure hardware compatibilty if you don't own a Dell Latitude E7440.
