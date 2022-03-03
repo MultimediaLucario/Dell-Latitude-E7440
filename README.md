@@ -2,7 +2,7 @@
 ![2 repository-open-graph-template](https://user-images.githubusercontent.com/72415505/156626233-896a46e1-5bb6-472e-a15e-863ab502352c.png)
 
 
-# Dell-Latitude-E7440
+# Dell Latitude E7440
 If you also own Dell Latitude E7440 then you can use this EFI Configuration in your E7440 after installing Hackintosh Mojave.
 You can download Hackintosh Mojave from `getintopc.com` I have used `Niresh Hackintosh Mojave` for reference you can use the same.
 If you don't know anything about what Hackintosh is then you must read about it on Google.
