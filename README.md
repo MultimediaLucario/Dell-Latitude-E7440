@@ -14,7 +14,7 @@ If you don't know anything about what Hackintosh is then you must read about it 
 I have added Clover and Opencore Configurations as per model Dell Latitude E7440 but opencore is in beta stages so I would recommend to use the Clover Boootloader.
 The opencore cofiguration only works with macOS Catalina and macOS Big Sur but I doubt it will run perfectly. OC = Opencore && Clover = Clover 
 
-# Steps to hackintosh using the OpenCore Bootloader
+# Dell Latitude E7440 Hackintosh Guide (OpenCore)
 
 To start you'll need the following:
 
@@ -24,7 +24,7 @@ For USB larger than 16 GB to format in FAT32 use Rufus method
 
 macrecovery.py (opens new window)
 
-This will require Python installed (opens new window)
+This will require Python installed.
 #
 
 1. To grab legacy installers is super easy, first grab a copy of OpenCorePkg (opens new window) and head to /Utilities/macrecovery/. Next copy the folder path for the macrecovery folder. 
@@ -114,7 +114,8 @@ This will take some time, however once you're finished you should get either Bas
 
 19. Congratulations, you've successfully hackintoshed your Dell Latitude E7440.
 
-# Steps to install Hackintosh 
+# Dell Latitude E7440 Hackintosh Guide (Clover)
+
 1. You need to ensure hardware compatibilty if you don't own a Dell Latitude E7440.
 2. You must have a USB which is more than 8Gib or atleast 8Gib.
 3. Download and install `TransMac` from the link from here `https://www.acutesystems.com/scrtm.htm`.
